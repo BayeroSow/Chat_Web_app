@@ -1,32 +1,22 @@
-# Chat-Web-App
+# Chat App
+This is simply a local area network chat application. so you don't need password, account or any thing like that, if you're on the same network as somone, you can go to whatever url this server is running on, and you can just start globally chatting with any one else on the network also using this application
 
-## Setup
+## Requirements
+- Network
+- Url 
 
-Ensure you have python 3.6+ installed.
 
-```bash
-pip install -r requirements.txt
-```
+# Tech Stack
+- Socketio
+- Flask
+- Eventlet
+- Javascript 
+- python-dotenv
 
-## Running the Server
+# Schema
 
-```bash
-cd website
-python main.py
-```
-
-## Clearing Message History
-
-To clear the message history simply delete the `messages.db` file.
-
-## Old Message Server
-
-Before using socketio for this project I coded out a custom message server that uses standard python sockets. The code for this is located in `old_msg_server/`.
-
-## Livestream
-
-This project was built during a two part livestream.
-
-[Part 1!](https://www.youtube.com/watch?v=i824zN0DGIo&t=15379s)
-
-[Part 2!](https://www.youtube.com/watch?v=MgkldDDFJF4)
+### User
+To sign in, all you do is you just pick some name for your self that what represent you in the room 
+- Signin
+- Typping
+- Chatting
