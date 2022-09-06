@@ -20,3 +20,15 @@ To sign in, all you do is you just pick some name for your self that what repres
 - Signin
 - Typping
 - Chatting
+
+### Project
+
+- name: Chat App 
+- description: textfield
+- createdAt: timestamp
+- updatedAt: timestamp
+
+### Log
+- text: textfield
+- createdAt: timestamp
+- updatedAt: timestamp
