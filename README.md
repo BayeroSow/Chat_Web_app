@@ -1,7 +1,7 @@
-<img src="web/Screenshot1.png" width="1000">
-<img src="web/Screenshot2.png" width="1000">
-<img src="web/Screenshot3.png" width="1000">
-<img src="web/Screenshot4.png" width="1000">
+<img src="website/Screenshot1.png" width="1000">
+<img src="website/Screenshot2.png" width="1000">
+<img src="website/Screenshot3.png" width="1000">
+<img src="website/Screenshot4.png" width="1000">
 
 
 
