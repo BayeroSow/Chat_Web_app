@@ -11,7 +11,6 @@ This is simply a local area network chat application. so you don't need password
 - Network
 - Url 
 
-
 # Tech Stack
 - Socketio
 - Flask
